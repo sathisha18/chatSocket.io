@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  api:''
+  api:'https://chat-socket-io-psi.vercel.app'
 };
 
 /*
